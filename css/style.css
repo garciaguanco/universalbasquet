@@ -133,9 +133,6 @@ footer{
     
 }
 
-footer {
-    height: 150px; /* Ajusta el valor según tus necesidades */
-  }
 
 footer .footer__icons {
     display: flex;
@@ -615,6 +612,8 @@ h2{
         flex-wrap: wrap;
         justify-content: center;
         align-content: center;
+        margin: 30px;
+        max-width: 20px;
 }    
 
 }
