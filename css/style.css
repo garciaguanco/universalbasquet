@@ -133,6 +133,9 @@ footer{
     
 }
 
+footer {
+    height: 250px; /* Ajusta el valor según tus necesidades */
+  }
 
 footer .footer__icons {
     display: flex;
@@ -484,7 +487,7 @@ textarea{
 }
 
 .header__nav{
-    background-color: #768cc2;
+    background-color: lightgreen;
     margin-top: 0px;
     margin-right: 0%;
     width: 60%;
