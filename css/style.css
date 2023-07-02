@@ -457,7 +457,7 @@ textarea{
 
 /* Header Mobile */
 
-@media (min-width: 0px) and (max-width: 767px){
+@media (max-width: 767px){
 
 .header__nav ul{
         display: flex;
@@ -530,11 +530,9 @@ textarea{
     display: block;
     
 }
-}
+
 
 /* index Mobile */
-
-@media (min-width: 0px) and (max-width: 767px){
 
 .img-1 {
     width: 80%;
@@ -546,11 +544,14 @@ textarea{
     border-radius: 30px;
     border: dashed 3px white;
 }
+
+
+.container{
+    width: 100%;
 }
 
 /* contact Mobile */
 
-@media (min-width: 0px) and (max-width: 767px){
 
 .contact .contact__box {
     width: 90vw;
@@ -567,11 +568,10 @@ textarea{
 h2{
     padding: 20%;
 }
-}
+
 
 /* u13 Mobile */
 
-@media (min-width: 0px) and (max-width: 767px){
 
 .imgn-1 {
         width: 80%;
